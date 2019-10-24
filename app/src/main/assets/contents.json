@@ -37,6 +37,14 @@
         {
           "image_file": "objet_text_006_512px.webp",
           "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "objet_text_007_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "objet_text_008_512px.webp",
+          "emojis": ["😄","😀"]
         }
       ]
     },
@@ -121,11 +129,89 @@
           "emojis": ["😄","😀"]
         },
         {
+          "image_file": "ad014_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "ad015_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "ad016_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "ad017_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "ad018_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "ad019_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "ad020_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
           "image_file": "objet_001_512px.webp",
           "emojis": ["😄","😀"]
         },
         {
           "image_file": "objet_002_512px.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Stickers mortels - Personnages 2",
+      "publisher": "Bayard Presse",
+      "tray_image_file": "icon96.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Ajax_001_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Ajax_002_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Ajax_003_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Magnus_003_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Magnus_004_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Magnus_005_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Magnus_006_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Magnus_007_512px.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Magnus_008_512px.webp",
           "emojis": ["😄","😀"]
         }
       ]
